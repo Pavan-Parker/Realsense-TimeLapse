@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Jun 20 2021 15:07:37 GMT+0530 (India Standard Time)
+------------------------------------------------------
+
+Modified files:
+* DSLR_TimeLapse.py
+
+
+Created files:
+* .autogit/logs/log-20-5-2021-14-27-22.txt
+
+
+Deleted files:
+
+
+Renamed files:

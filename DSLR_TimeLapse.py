@@ -79,7 +79,7 @@ def create_video():
     frame = cv2.imread(os.path.join(IMG_PATH, images[0]))
     height, width, layers = frame.shape
 
-    video = cv2.VideoWriter(VID_PATH, 0, 24, (width, height))
+    video = cv2.VideoWriter(VID_PATH, 0, 5, (width, height))
 
     print("Creating the video")
     for image in images:
@@ -100,5 +100,5 @@ def lapse_time():
 
 
 if __name__ == "__main__":
-    take_photos()
+    # take_photos()
     create_video()
